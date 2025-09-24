@@ -1,0 +1,29 @@
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userprefs
+
+# .NET
+*.dll
+*.pdb
+*.exe
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# OS Files  
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Runtime files
+wwwroot/lib/
